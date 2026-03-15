@@ -1,0 +1,25 @@
+{
+  "name": "fincal-goal-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.5.9",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^3.8.0"
+  },
+  "engines": {
+    "node": ">=22.11.0",
+    "npm": ">=10.9.0"
+  },
+  "devDependencies": {
+    "eslint": "9.39.4",
+    "eslint-config-next": "16.1.6"
+  }
+}
