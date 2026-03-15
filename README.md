@@ -3,6 +3,8 @@
 **Technex '26 | IIT(BHU) Varanasi | FinCal Innovation Hackathon**  
 *Co-sponsored by HDFC Mutual Fund*
 
+![Project Demo](demo.webp)
+
 ---
 
 ## Quick Start
